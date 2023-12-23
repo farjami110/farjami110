@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I am a Computer Scientist specializing in Data Sci
 ## About Me
 
 - 🔭 I’m currently working on **AI Safety and Ethical AI** projects.
-- 🌱 My interests include **Machine Learning, Neuro-Symbolic AI, and Knowledge Graphs**.
+- 🌱 My interests include **Normative Reasoning, Machine Learning, Neuro-Symbolic AI, and Knowledge Graphs**.
 - 👯 I’m looking to collaborate on projects focusing on **AI Alignment and AI Ethics**.
 - 📫 How to reach me: [farjami110@gmail.com](mailto:farjami110@gmail.com)
 
@@ -35,7 +35,7 @@ _University of Luxembourg, Dec 2016 - Dec 2020, Luxembourg_
 ## Skills
 
 - **Languages**: Python, R
-- **Technologies**: Machine Learning, Deep Learning, Knowledge Graphs
+- **Technologies**: Machine Learning, Deep Learning, Knowledge Graphs, Theorem Provers
 - **Soft Skills**: Critical Thinking, Team Collaboration, Effective Communication
 
 ## Education
