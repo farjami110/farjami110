@@ -34,8 +34,8 @@ _University of Luxembourg, Dec 2016 - Dec 2020, Luxembourg_
 
 ## Skills
 
-- **Languages**: Python, R
-- **Technologies**: Machine Learning, Deep Learning, Knowledge Graphs, Theorem Provers
+- **Languages**: Python, R, HOL
+- **Technologies**: Machine Learning, Deep Learning, Knowledge Graphs, Theorem Provers, Symbolic Logic
 - **Soft Skills**: Critical Thinking, Team Collaboration, Effective Communication
 
 ## Education
